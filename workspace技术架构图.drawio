@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="aqc0d2mp-G3xKXcZo_UD">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MYkkT0teDAzLv6Wk074o-1" value="Client" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MYkkT0teDAzLv6Wk074o-2" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="79.37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MYkkT0teDAzLv6Wk074o-3" value="Win" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYkkT0teDAzLv6Wk074o-4" value="Client" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MYkkT0teDAzLv6Wk074o-5" value="Linux" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYkkT0teDAzLv6Wk074o-6" value="Client" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
