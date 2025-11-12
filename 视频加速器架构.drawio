@@ -5,112 +5,112 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="93oDNnfRHOwVkXOSYUJA-2" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" parent="1" vertex="1">
-          <mxGeometry x="332" y="449" width="142.86" height="90" as="geometry" />
+          <mxGeometry x="332" y="519" width="142.86" height="90" as="geometry" />
         </mxCell>
         <mxCell id="93oDNnfRHOwVkXOSYUJA-3" value="客户端" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="104" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="104" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="93oDNnfRHOwVkXOSYUJA-4" value="云桌面端" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="614" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="614" y="270" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536" y="250" width="250" height="450" as="geometry" />
+          <mxGeometry x="536" y="320" width="250" height="450" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="250" width="250" height="450" as="geometry" />
+          <mxGeometry x="20" y="320" width="250" height="450" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-1" value="华为云桌面HDP协议栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="620" width="180" height="60" as="geometry" />
+          <mxGeometry x="50" y="690" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-2" value="华为云桌面HDP协议栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="620" width="170" height="60" as="geometry" />
+          <mxGeometry x="580" y="690" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="260" width="180" height="350" as="geometry" />
+          <mxGeometry x="50" y="330" width="180" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-4" value="HDP Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="585" width="170" height="30" as="geometry" />
+          <mxGeometry x="580" y="655" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.547;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.056;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xrouo3bVOCE84HXTiJho-5" target="93oDNnfRHOwVkXOSYUJA-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="490" as="sourcePoint" />
-            <mxPoint x="340" y="430" as="targetPoint" />
+            <mxPoint x="390" y="560" as="sourcePoint" />
+            <mxPoint x="340" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="93oDNnfRHOwVkXOSYUJA-2" target="Xrouo3bVOCE84HXTiJho-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="436" as="sourcePoint" />
-            <mxPoint x="540" y="434" as="targetPoint" />
+            <mxPoint x="480" y="506" as="sourcePoint" />
+            <mxPoint x="540" y="504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="260" width="170" height="320" as="geometry" />
+          <mxGeometry x="580" y="330" width="170" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="280" width="160" height="80" as="geometry" />
+          <mxGeometry x="60" y="350" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-11" value="UI" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-12" value="视频窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="104" y="286" width="80" height="30" as="geometry" />
+          <mxGeometry x="104" y="356" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-13" value="音视频渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="322" width="80" height="30" as="geometry" />
+          <mxGeometry x="105" y="392" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="370" width="160" height="230" as="geometry" />
+          <mxGeometry x="60" y="440" width="160" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-15" value="播放器业务层" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="370" width="80" height="30" as="geometry" />
+          <mxGeometry x="60" y="440" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-16" value="音视频同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="104" y="395" width="76" height="25" as="geometry" />
+          <mxGeometry x="104" y="465" width="76" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-17" value="音视频解码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="102" y="449" width="76" height="25" as="geometry" />
+          <mxGeometry x="102" y="519" width="76" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-18" value="控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="104" y="500" width="76" height="25" as="geometry" />
+          <mxGeometry x="104" y="570" width="76" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-19" value="队列缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="104" y="560" width="76" height="25" as="geometry" />
+          <mxGeometry x="104" y="630" width="76" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="291" width="120" height="129" as="geometry" />
+          <mxGeometry x="605" y="361" width="120" height="129" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-22" value="UI" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="588" y="286" width="60" height="30" as="geometry" />
+          <mxGeometry x="588" y="356" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-23" value="播放器应用主体" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="262" width="96.57" height="30" as="geometry" />
+          <mxGeometry x="580" y="332" width="96.57" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-24" value="界面显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="310" width="90" height="30" as="geometry" />
+          <mxGeometry x="620" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-25" value="进度显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="350" width="90" height="30" as="geometry" />
+          <mxGeometry x="620" y="420" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-26" value="音量等控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="385" width="90" height="30" as="geometry" />
+          <mxGeometry x="620" y="455" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="426.5" width="120" height="143.5" as="geometry" />
+          <mxGeometry x="605" y="496.5" width="120" height="143.5" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-28" value="播放器业务层" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="605" y="426.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="605" y="496.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-29" value="音量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627" y="449" width="76" height="25" as="geometry" />
+          <mxGeometry x="627" y="519" width="76" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-30" value="窗口遮挡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627" y="477.5" width="76" height="25" as="geometry" />
+          <mxGeometry x="627" y="547.5" width="76" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-31" value="音视频解封装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627" y="506.5" width="76" height="25" as="geometry" />
+          <mxGeometry x="627" y="576.5" width="76" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Xrouo3bVOCE84HXTiJho-32" value="控件层响应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627" y="535" width="76" height="25" as="geometry" />
+          <mxGeometry x="627" y="605" width="76" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
